@@ -1,6 +1,6 @@
 # Ionoid.io IoT Next Generation Deployment
 
-Ionoid.io is device management platform, with IoT Apps deployment and OTA software updates to scale your IoT solution and Edge Computing experience.
+[Ionoid.io](https://ionoid.io/) is device management platform, with IoT Apps deployment and OTA software updates to scale your IoT solution and Edge Computing experience.
 
 ## Documentation
 
@@ -27,4 +27,4 @@ Or connect with our sales team: sales@opendevices.io
 
 ## Open Devices GmbH
 
-Ionoid.io is a product provided by [Open Devices GmbH](https://opendevices.io)
+[Ionoid.io](https://ionoid.io) is a product provided by [Open Devices GmbH](https://opendevices.io)
