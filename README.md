@@ -2,6 +2,10 @@
 
 [Ionoid.io](https://ionoid.io/) is device management platform, with IoT Apps deployment and OTA software updates to scale your IoT solution and Edge Computing experience.
 
+## Issues or features request
+
+To open issues here [Ionoid.io issues](https://github.com/ionoid/ionoid/issues)
+
 ## Documentation
 
 [Ionoid.io Documentation](https://docs.ionoid.io/)
@@ -9,10 +13,6 @@
 ## Faq
 
 [Ionoid.io Frequently asked questions](https://docs.ionoid.io/#/Faq/faq)
-
-## Issues
-
-To open issues here [Ionoid.io issues](https://github.com/ionoid/ionoid/issues)
 
 ## Contact
 
